@@ -1,0 +1,11 @@
+{
+  "name": "cypress-test-examples",
+  "version": "1.0.0",
+  "author": "Emil Churlevski",
+  "license": "MIT",
+  "description": "A simple project to show cypress capabilities with examples using page object model",
+  "devDependencies": {
+    "cypress": "^13.8.0",
+    "typescript": "^5.4.5"
+  }
+}
