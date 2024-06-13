@@ -16,7 +16,7 @@
 To set up this Cypress project, follow these steps:
 1. Clone the repository:
     ```sh
-    git clone https://github.com/EmilChurlevski/cypress-pom-example
+    git clone https://github.com/EmilChurlevski/cypress-pom-example.git
     cd project-root
     ```
 2. Install the dependencies:
